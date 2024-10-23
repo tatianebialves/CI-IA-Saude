@@ -1,0 +1,767 @@
+residueId	AA	Sequence	Structure
+1	M	Methionine	
+2	A	Alanine	
+3	A	Alanine	
+4	L	Leucine	
+5	S	Serine	
+6	G	Glycine	
+7	G	Glycine	
+8	G	Glycine	
+9	G	Glycine	
+10	G	Glycine	
+11	G	Glycine	
+12	A	Alanine	
+13	E	Glutamic Acid	
+14	P	Proline	
+15	G	Glycine	
+16	Q	Glutamine	
+17	A	Alanine	
+18	L	Leucine	
+19	F	Phenylalanine	
+20	N	Asparagine	
+21	G	Glycine	
+22	D	Aspartic Acid	
+23	M	Methionine	
+24	E	Glutamic Acid	
+25	P	Proline	
+26	E	Glutamic Acid	
+27	A	Alanine	
+28	G	Glycine	
+29	A	Alanine	
+30	G	Glycine	
+31	A	Alanine	
+32	G	Glycine	
+33	A	Alanine	
+34	A	Alanine	
+35	A	Alanine	
+36	S	Serine	
+37	S	Serine	
+38	A	Alanine	
+39	A	Alanine	
+40	D	Aspartic Acid	
+41	P	Proline	
+42	A	Alanine	
+43	I	Isoleucine	
+44	P	Proline	
+45	E	Glutamic Acid	
+46	E	Glutamic Acid	
+47	V	Valine	
+48	W	Tryptophan	
+49	N	Asparagine	
+50	I	Isoleucine	
+51	K	Lysine	
+52	Q	Glutamine	
+53	M	Methionine	
+54	I	Isoleucine	
+55	K	Lysine	
+56	L	Leucine	
+57	T	Threonine	
+58	Q	Glutamine	
+59	E	Glutamic Acid	
+60	H	Histidine	
+61	I	Isoleucine	
+62	E	Glutamic Acid	
+63	A	Alanine	
+64	L	Leucine	
+65	L	Leucine	
+66	D	Aspartic Acid	
+67	K	Lysine	
+68	F	Phenylalanine	
+69	G	Glycine	
+70	G	Glycine	
+71	E	Glutamic Acid	
+72	H	Histidine	
+73	N	Asparagine	
+74	P	Proline	
+75	P	Proline	
+76	S	Serine	
+77	I	Isoleucine	
+78	Y	Tyrosine	
+79	L	Leucine	
+80	E	Glutamic Acid	
+81	A	Alanine	
+82	Y	Tyrosine	
+83	E	Glutamic Acid	
+84	E	Glutamic Acid	
+85	Y	Tyrosine	
+86	T	Threonine	
+87	S	Serine	
+88	K	Lysine	
+89	L	Leucine	
+90	D	Aspartic Acid	
+91	A	Alanine	
+92	L	Leucine	
+93	Q	Glutamine	
+94	Q	Glutamine	
+95	R	Arginine	
+96	E	Glutamic Acid	
+97	Q	Glutamine	
+98	Q	Glutamine	
+99	L	Leucine	
+100	L	Leucine	
+101	E	Glutamic Acid	
+102	S	Serine	
+103	L	Leucine	
+104	G	Glycine	
+105	N	Asparagine	
+106	G	Glycine	
+107	T	Threonine	
+108	D	Aspartic Acid	
+109	F	Phenylalanine	
+110	S	Serine	
+111	V	Valine	
+112	S	Serine	
+113	S	Serine	
+114	S	Serine	
+115	A	Alanine	
+116	S	Serine	
+117	M	Methionine	
+118	D	Aspartic Acid	
+119	T	Threonine	
+120	V	Valine	
+121	T	Threonine	
+122	S	Serine	
+123	S	Serine	
+124	S	Serine	
+125	S	Serine	
+126	S	Serine	
+127	S	Serine	
+128	L	Leucine	
+129	S	Serine	
+130	V	Valine	
+131	L	Leucine	
+132	P	Proline	
+133	S	Serine	
+134	S	Serine	
+135	L	Leucine	
+136	S	Serine	
+137	V	Valine	
+138	F	Phenylalanine	
+139	Q	Glutamine	
+140	N	Asparagine	
+141	P	Proline	
+142	T	Threonine	
+143	D	Aspartic Acid	
+144	V	Valine	
+145	A	Alanine	
+146	R	Arginine	
+147	S	Serine	
+148	N	Asparagine	
+149	P	Proline	
+150	K	Lysine	
+151	S	Serine	observed structure
+152	P	Proline	observed structure
+153	Q	Glutamine	observed structure
+154	K	Lysine	observed structure
+155	P	Proline	observed structure
+156	I	Isoleucine	observed structure
+157	V	Valine	observed structure
+158	R	Arginine	observed structure
+159	V	Valine	observed structure
+160	F	Phenylalanine	observed structure
+161	L	Leucine	observed structure
+162	P	Proline	observed structure
+163	N	Asparagine	observed structure
+164	K	Lysine	observed structure
+165	Q	Glutamine	observed structure
+166	R	Arginine	observed structure
+167	T	Threonine	observed structure
+168	V	Valine	observed structure
+169	V	Valine	observed structure
+170	P	Proline	observed structure
+171	A	Alanine	observed structure
+172	R	Arginine	observed structure
+173	C	Cysteine	observed structure
+174	G	Glycine	observed structure
+175	V	Valine	observed structure
+176	T	Threonine	observed structure
+177	V	Valine	observed structure
+178	R	Arginine	observed structure
+179	D	Aspartic Acid	observed structure
+180	S	Serine	observed structure
+181	L	Leucine	observed structure
+182	K	Lysine	observed structure
+183	K	Lysine	observed structure
+184	A	Alanine	observed structure
+185	L	Leucine	observed structure
+186	M	Methionine	observed structure
+187	M	Methionine	observed structure
+188	R	Arginine	observed structure
+189	G	Glycine	observed structure
+190	L	Leucine	observed structure
+191	I	Isoleucine	observed structure
+192	P	Proline	observed structure
+193	E	Glutamic Acid	observed structure
+194	C	Cysteine	observed structure
+195	C	Cysteine	observed structure
+196	A	Alanine	observed structure
+197	V	Valine	observed structure
+198	Y	Tyrosine	observed structure
+199	R	Arginine	observed structure
+200	I	Isoleucine	observed structure
+201	Q	Glutamine	observed structure
+202	D	Aspartic Acid	observed structure
+203	G	Glycine	observed structure
+204	E	Glutamic Acid	observed structure
+205	K	Lysine	observed structure
+206	K	Lysine	observed structure
+207	P	Proline	observed structure
+208	I	Isoleucine	observed structure
+209	G	Glycine	observed structure
+210	W	Tryptophan	observed structure
+211	D	Aspartic Acid	observed structure
+212	T	Threonine	observed structure
+213	D	Aspartic Acid	observed structure
+214	I	Isoleucine	observed structure
+215	S	Serine	observed structure
+216	W	Tryptophan	observed structure
+217	L	Leucine	observed structure
+218	T	Threonine	observed structure
+219	G	Glycine	observed structure
+220	E	Glutamic Acid	observed structure
+221	E	Glutamic Acid	observed structure
+222	L	Leucine	observed structure
+223	H	Histidine	observed structure
+224	V	Valine	observed structure
+225	E	Glutamic Acid	observed structure
+226	V	Valine	observed structure
+227	L	Leucine	observed structure
+228	E	Glutamic Acid	observed structure
+229	N	Asparagine	observed structure
+230	V	Valine	observed structure
+231	P	Proline	observed structure
+232	L	Leucine	observed structure
+233	T	Threonine	
+234	T	Threonine	
+235	H	Histidine	
+236	N	Asparagine	
+237	F	Phenylalanine	
+238	V	Valine	
+239	R	Arginine	
+240	K	Lysine	
+241	T	Threonine	
+242	F	Phenylalanine	
+243	F	Phenylalanine	
+244	T	Threonine	
+245	L	Leucine	
+246	A	Alanine	
+247	F	Phenylalanine	
+248	C	Cysteine	
+249	D	Aspartic Acid	
+250	F	Phenylalanine	
+251	C	Cysteine	
+252	R	Arginine	
+253	K	Lysine	
+254	L	Leucine	
+255	L	Leucine	
+256	F	Phenylalanine	
+257	Q	Glutamine	
+258	G	Glycine	
+259	F	Phenylalanine	
+260	R	Arginine	
+261	C	Cysteine	
+262	Q	Glutamine	
+263	T	Threonine	
+264	C	Cysteine	
+265	G	Glycine	
+266	Y	Tyrosine	
+267	K	Lysine	
+268	F	Phenylalanine	
+269	H	Histidine	
+270	Q	Glutamine	
+271	R	Arginine	
+272	C	Cysteine	
+273	S	Serine	
+274	T	Threonine	
+275	E	Glutamic Acid	
+276	V	Valine	
+277	P	Proline	
+278	L	Leucine	
+279	M	Methionine	
+280	C	Cysteine	
+281	V	Valine	
+282	N	Asparagine	
+283	Y	Tyrosine	
+284	D	Aspartic Acid	
+285	Q	Glutamine	
+286	L	Leucine	
+287	D	Aspartic Acid	
+288	L	Leucine	
+289	L	Leucine	
+290	F	Phenylalanine	
+291	V	Valine	
+292	S	Serine	
+293	K	Lysine	
+294	F	Phenylalanine	
+295	F	Phenylalanine	
+296	E	Glutamic Acid	
+297	H	Histidine	
+298	H	Histidine	
+299	P	Proline	
+300	I	Isoleucine	
+301	P	Proline	
+302	Q	Glutamine	
+303	E	Glutamic Acid	
+304	E	Glutamic Acid	
+305	A	Alanine	
+306	S	Serine	
+307	L	Leucine	
+308	A	Alanine	
+309	E	Glutamic Acid	
+310	T	Threonine	
+311	A	Alanine	
+312	L	Leucine	
+313	T	Threonine	
+314	S	Serine	
+315	G	Glycine	
+316	S	Serine	
+317	S	Serine	
+318	P	Proline	
+319	S	Serine	
+320	A	Alanine	
+321	P	Proline	
+322	A	Alanine	
+323	S	Serine	
+324	D	Aspartic Acid	
+325	S	Serine	
+326	I	Isoleucine	
+327	G	Glycine	
+328	P	Proline	
+329	Q	Glutamine	
+330	I	Isoleucine	
+331	L	Leucine	
+332	T	Threonine	
+333	S	Serine	
+334	P	Proline	
+335	S	Serine	
+336	P	Proline	
+337	S	Serine	
+338	K	Lysine	
+339	S	Serine	
+340	I	Isoleucine	
+341	P	Proline	
+342	I	Isoleucine	
+343	P	Proline	
+344	Q	Glutamine	
+345	P	Proline	
+346	F	Phenylalanine	
+347	R	Arginine	
+348	P	Proline	
+349	A	Alanine	
+350	D	Aspartic Acid	
+351	E	Glutamic Acid	
+352	D	Aspartic Acid	
+353	H	Histidine	
+354	R	Arginine	
+355	N	Asparagine	
+356	Q	Glutamine	
+357	F	Phenylalanine	
+358	G	Glycine	
+359	Q	Glutamine	
+360	R	Arginine	
+361	D	Aspartic Acid	
+362	R	Arginine	
+363	S	Serine	
+364	S	Serine	
+365	S	Serine	
+366	A	Alanine	
+367	P	Proline	
+368	N	Asparagine	
+369	V	Valine	
+370	H	Histidine	
+371	I	Isoleucine	
+372	N	Asparagine	
+373	T	Threonine	
+374	I	Isoleucine	
+375	E	Glutamic Acid	
+376	P	Proline	
+377	V	Valine	
+378	N	Asparagine	
+379	I	Isoleucine	
+380	D	Aspartic Acid	
+381	D	Aspartic Acid	
+382	L	Leucine	
+383	I	Isoleucine	
+384	R	Arginine	
+385	D	Aspartic Acid	
+386	Q	Glutamine	
+387	G	Glycine	
+388	F	Phenylalanine	
+389	R	Arginine	
+390	G	Glycine	
+391	D	Aspartic Acid	
+392	G	Glycine	
+393	G	Glycine	
+394	S	Serine	
+395	T	Threonine	
+396	T	Threonine	
+397	G	Glycine	
+398	L	Leucine	
+399	S	Serine	
+400	A	Alanine	
+401	T	Threonine	
+402	P	Proline	
+403	P	Proline	
+404	A	Alanine	
+405	S	Serine	
+406	L	Leucine	
+407	P	Proline	
+408	G	Glycine	
+409	S	Serine	
+410	L	Leucine	
+411	T	Threonine	
+412	N	Asparagine	
+413	V	Valine	
+414	K	Lysine	
+415	A	Alanine	
+416	L	Leucine	
+417	Q	Glutamine	
+418	K	Lysine	
+419	S	Serine	
+420	P	Proline	
+421	G	Glycine	
+422	P	Proline	
+423	Q	Glutamine	
+424	R	Arginine	
+425	E	Glutamic Acid	
+426	R	Arginine	
+427	K	Lysine	
+428	S	Serine	
+429	S	Serine	
+430	S	Serine	
+431	S	Serine	
+432	S	Serine	
+433	E	Glutamic Acid	
+434	D	Aspartic Acid	
+435	R	Arginine	
+436	N	Asparagine	
+437	R	Arginine	
+438	M	Methionine	
+439	K	Lysine	
+440	T	Threonine	
+441	L	Leucine	
+442	G	Glycine	
+443	R	Arginine	
+444	R	Arginine	
+445	D	Aspartic Acid	
+446	S	Serine	
+447	S	Serine	
+448	D	Aspartic Acid	
+449	D	Aspartic Acid	
+450	W	Tryptophan	
+451	E	Glutamic Acid	
+452	I	Isoleucine	
+453	P	Proline	
+454	D	Aspartic Acid	
+455	G	Glycine	
+456	Q	Glutamine	
+457	I	Isoleucine	
+458	T	Threonine	
+459	V	Valine	
+460	G	Glycine	
+461	Q	Glutamine	
+462	R	Arginine	
+463	I	Isoleucine	
+464	G	Glycine	
+465	S	Serine	
+466	G	Glycine	
+467	S	Serine	
+468	F	Phenylalanine	
+469	G	Glycine	
+470	T	Threonine	
+471	V	Valine	
+472	Y	Tyrosine	
+473	K	Lysine	
+474	G	Glycine	
+475	K	Lysine	
+476	W	Tryptophan	
+477	H	Histidine	
+478	G	Glycine	
+479	D	Aspartic Acid	
+480	V	Valine	
+481	A	Alanine	
+482	V	Valine	
+483	K	Lysine	
+484	M	Methionine	
+485	L	Leucine	
+486	N	Asparagine	
+487	V	Valine	
+488	T	Threonine	
+489	A	Alanine	
+490	P	Proline	
+491	T	Threonine	
+492	P	Proline	
+493	Q	Glutamine	
+494	Q	Glutamine	
+495	L	Leucine	
+496	Q	Glutamine	
+497	A	Alanine	
+498	F	Phenylalanine	
+499	K	Lysine	
+500	N	Asparagine	
+501	E	Glutamic Acid	
+502	V	Valine	
+503	G	Glycine	
+504	V	Valine	
+505	L	Leucine	
+506	R	Arginine	
+507	K	Lysine	
+508	T	Threonine	
+509	R	Arginine	
+510	H	Histidine	
+511	V	Valine	
+512	N	Asparagine	
+513	I	Isoleucine	
+514	L	Leucine	
+515	L	Leucine	
+516	F	Phenylalanine	
+517	M	Methionine	
+518	G	Glycine	
+519	Y	Tyrosine	
+520	S	Serine	
+521	T	Threonine	
+522	K	Lysine	
+523	P	Proline	
+524	Q	Glutamine	
+525	L	Leucine	
+526	A	Alanine	
+527	I	Isoleucine	
+528	V	Valine	
+529	T	Threonine	
+530	Q	Glutamine	
+531	W	Tryptophan	
+532	C	Cysteine	
+533	E	Glutamic Acid	
+534	G	Glycine	
+535	S	Serine	
+536	S	Serine	
+537	L	Leucine	
+538	Y	Tyrosine	
+539	H	Histidine	
+540	H	Histidine	
+541	L	Leucine	
+542	H	Histidine	
+543	I	Isoleucine	
+544	I	Isoleucine	
+545	E	Glutamic Acid	
+546	T	Threonine	
+547	K	Lysine	
+548	F	Phenylalanine	
+549	E	Glutamic Acid	
+550	M	Methionine	
+551	I	Isoleucine	
+552	K	Lysine	
+553	L	Leucine	
+554	I	Isoleucine	
+555	D	Aspartic Acid	
+556	I	Isoleucine	
+557	A	Alanine	
+558	R	Arginine	
+559	Q	Glutamine	
+560	T	Threonine	
+561	A	Alanine	
+562	Q	Glutamine	
+563	G	Glycine	
+564	M	Methionine	
+565	D	Aspartic Acid	
+566	Y	Tyrosine	
+567	L	Leucine	
+568	H	Histidine	
+569	A	Alanine	
+570	K	Lysine	
+571	S	Serine	
+572	I	Isoleucine	
+573	I	Isoleucine	
+574	H	Histidine	
+575	R	Arginine	
+576	D	Aspartic Acid	
+577	L	Leucine	
+578	K	Lysine	
+579	S	Serine	
+580	N	Asparagine	
+581	N	Asparagine	
+582	I	Isoleucine	
+583	F	Phenylalanine	
+584	L	Leucine	
+585	H	Histidine	
+586	E	Glutamic Acid	
+587	D	Aspartic Acid	
+588	L	Leucine	
+589	T	Threonine	
+590	V	Valine	
+591	K	Lysine	
+592	I	Isoleucine	
+593	G	Glycine	
+594	D	Aspartic Acid	
+595	F	Phenylalanine	
+596	G	Glycine	
+597	L	Leucine	
+598	A	Alanine	
+599	T	Threonine	
+600	V	Valine	
+601	K	Lysine	
+602	S	Serine	
+603	R	Arginine	
+604	W	Tryptophan	
+605	S	Serine	
+606	G	Glycine	
+607	S	Serine	
+608	H	Histidine	
+609	Q	Glutamine	
+610	F	Phenylalanine	
+611	E	Glutamic Acid	
+612	Q	Glutamine	
+613	L	Leucine	
+614	S	Serine	
+615	G	Glycine	
+616	S	Serine	
+617	I	Isoleucine	
+618	L	Leucine	
+619	W	Tryptophan	
+620	M	Methionine	
+621	A	Alanine	
+622	P	Proline	
+623	E	Glutamic Acid	
+624	V	Valine	
+625	I	Isoleucine	
+626	R	Arginine	
+627	M	Methionine	
+628	Q	Glutamine	
+629	D	Aspartic Acid	
+630	K	Lysine	
+631	N	Asparagine	
+632	P	Proline	
+633	Y	Tyrosine	
+634	S	Serine	
+635	F	Phenylalanine	
+636	Q	Glutamine	
+637	S	Serine	
+638	D	Aspartic Acid	
+639	V	Valine	
+640	Y	Tyrosine	
+641	A	Alanine	
+642	F	Phenylalanine	
+643	G	Glycine	
+644	I	Isoleucine	
+645	V	Valine	
+646	L	Leucine	
+647	Y	Tyrosine	
+648	E	Glutamic Acid	
+649	L	Leucine	
+650	M	Methionine	
+651	T	Threonine	
+652	G	Glycine	
+653	Q	Glutamine	
+654	L	Leucine	
+655	P	Proline	
+656	Y	Tyrosine	
+657	S	Serine	
+658	N	Asparagine	
+659	I	Isoleucine	
+660	N	Asparagine	
+661	N	Asparagine	
+662	R	Arginine	
+663	D	Aspartic Acid	
+664	Q	Glutamine	
+665	I	Isoleucine	
+666	I	Isoleucine	
+667	F	Phenylalanine	
+668	M	Methionine	
+669	V	Valine	
+670	G	Glycine	
+671	R	Arginine	
+672	G	Glycine	
+673	Y	Tyrosine	
+674	L	Leucine	
+675	S	Serine	
+676	P	Proline	
+677	D	Aspartic Acid	
+678	L	Leucine	
+679	S	Serine	
+680	K	Lysine	
+681	V	Valine	
+682	R	Arginine	
+683	S	Serine	
+684	N	Asparagine	
+685	C	Cysteine	
+686	P	Proline	
+687	K	Lysine	
+688	A	Alanine	
+689	M	Methionine	
+690	K	Lysine	
+691	R	Arginine	
+692	L	Leucine	
+693	M	Methionine	
+694	A	Alanine	
+695	E	Glutamic Acid	
+696	C	Cysteine	
+697	L	Leucine	
+698	K	Lysine	
+699	K	Lysine	
+700	K	Lysine	
+701	R	Arginine	
+702	D	Aspartic Acid	
+703	E	Glutamic Acid	
+704	R	Arginine	
+705	P	Proline	
+706	L	Leucine	
+707	F	Phenylalanine	
+708	P	Proline	
+709	Q	Glutamine	
+710	I	Isoleucine	
+711	L	Leucine	
+712	A	Alanine	
+713	S	Serine	
+714	I	Isoleucine	
+715	E	Glutamic Acid	
+716	L	Leucine	
+717	L	Leucine	
+718	A	Alanine	
+719	R	Arginine	
+720	S	Serine	
+721	L	Leucine	
+722	P	Proline	
+723	K	Lysine	
+724	I	Isoleucine	
+725	H	Histidine	
+726	R	Arginine	
+727	S	Serine	
+728	A	Alanine	
+729	S	Serine	
+730	E	Glutamic Acid	
+731	P	Proline	
+732	S	Serine	
+733	L	Leucine	
+734	N	Asparagine	
+735	R	Arginine	
+736	A	Alanine	
+737	G	Glycine	
+738	F	Phenylalanine	
+739	Q	Glutamine	
+740	T	Threonine	
+741	E	Glutamic Acid	
+742	D	Aspartic Acid	
+743	F	Phenylalanine	
+744	S	Serine	
+745	L	Leucine	
+746	Y	Tyrosine	
+747	A	Alanine	
+748	C	Cysteine	
+749	A	Alanine	
+750	S	Serine	
+751	P	Proline	
+752	K	Lysine	
+753	T	Threonine	
+754	P	Proline	
+755	I	Isoleucine	
+756	Q	Glutamine	
+757	A	Alanine	
+758	G	Glycine	
+759	G	Glycine	
+760	Y	Tyrosine	
+761	G	Glycine	
+762	A	Alanine	
+763	F	Phenylalanine	
+764	P	Proline	
+765	V	Valine	
+766	H	Histidine	
